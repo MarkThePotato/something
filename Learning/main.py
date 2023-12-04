@@ -105,8 +105,8 @@ import time
 # columns = int(input("How many rows?: "))
 # symbol = input("Input your symbol")
 
-# while 1 == 1:
-#     for row in range(rows):
-#         for column in range(columns):
-#             print(symbol, end="")
-#         print()
+while 1 == 1:
+    for row in range(rows):
+        for column in range(columns):
+            print(symbol, end="")
+        print()
